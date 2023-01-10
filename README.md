@@ -3,6 +3,9 @@
   
 # Project ScreenShot
   ![image](https://user-images.githubusercontent.com/79455689/211504137-3a55b97c-a292-4443-b098-302703b2c594.png)
+  
+## Project Description 
+   Created a Card App using React Props
 
 # Getting Started with Create React App
 
