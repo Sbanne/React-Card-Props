@@ -1,3 +1,9 @@
+# Live Demo
+  https://react-card-props.netlify.app
+  
+# Project ScreenShot
+  ![image](https://user-images.githubusercontent.com/79455689/211504137-3a55b97c-a292-4443-b098-302703b2c594.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
